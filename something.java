@@ -1,5 +1,5 @@
 Inheritance
-/*In the terminology of Java, a class that is inherited is called a superclass. The class that does
+/*In the terminology of Java, a class tha t is inherited is called a superclass. The class that does
 the inheriting is called a subclass.
 To inherit a class, you simply incorporate the definition of one class into another by using the
 extends keyword. To see how, let’s begin with a short example. The following program
